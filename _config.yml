@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Random Thoughts
+#title: Random Thoughts
 
 # Short description of your site
 description: The random thoughts I decided are worth noting down
@@ -16,7 +16,7 @@ navbar-links:
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://tedelhourani.github.com"
+  Home: "https://tedelhourani.github.com"
 
 # --- Logo --- #
 
